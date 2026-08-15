@@ -7,7 +7,11 @@ This tracks only a little bit of my activity; too lazy to install WakaTime every
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java                       0 secs                █████████▒░░░░░░░░░░░░░░░   36.67 %
+Properties                 0 secs                █████▒░░░░░░░░░░░░░░░░░░░   21.67 %
+Gradle                     0 secs                ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
+Groovy                     0 secs                ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
+JSON                       0 secs                ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
 ```
 
 <!--END_SECTION:waka-->
